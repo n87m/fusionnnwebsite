@@ -172,6 +172,46 @@ h6,
   }
 }
 
+.email-button {
+    
+
+  background: radial-gradient(72.64% 1141.01% at 72.74% 50.05%, rgba(119, 119, 119, 0.75) 0%, rgba(0, 0, 0, 0.75) 80.08%);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  border-radius: 30px;
+  backdrop-filter: blur(30px);
+
+
+  // /* Subscribe */
+
+  // position: absolute;
+  // width: 139.07px;
+  // height: 25.14px;
+  // left: 917.64px;
+  // top: 1512.39px;
+
+  // font-family: Pulp Display;
+  // font-style: normal;
+  // font-weight: bold;
+  // font-size: 28px;
+  // line-height: 28px;
+
+  // color: rgba(255, 255, 255, 0.8);
+
+
+
+  // /* Arrow 1 (Stroke) */
+
+  // position: absolute;
+  // width: 57.79px;
+  // height: 25.45px;
+  // left: 1150.91px;
+  // top: 1514px;
+
+  // background: rgba(255, 255, 255, 0.8);
+
+}
+
 @-webkit-keyframes bounce { 
   0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);} 
   40% {-webkit-transform: translateY(-1px);} 

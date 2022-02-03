@@ -291,7 +291,7 @@ export default function Home({ posts }) {
           <button
             type="button"
             value="Hit me up!"
-            className="max-w-2/3 w-full flex-1 rounded-2xl bg-black p-6 text-2xl text-white md:px-40 md:text-4xl"
+            className="max-w-2/3 email-button w-full flex-1 rounded-2xl bg-black p-6 text-2xl text-white md:px-40 md:text-4xl"
           >
             Subscribe
           </button>
