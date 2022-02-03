@@ -55,7 +55,7 @@ export default function Home({ posts }) {
               colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
-              <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+              {/* <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> */}
               <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7_1527" />
               <feBlend
                 mode="normal"
@@ -135,7 +135,7 @@ export default function Home({ posts }) {
                 colorInterpolationFilters="sRGB"
               >
                 <feFlood floodOpacity="0" result="BackgroundImageFix" />
-                <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+                {/* <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> */}
                 <feComposite
                   in2="SourceAlpha"
                   operator="in"
@@ -207,7 +207,7 @@ export default function Home({ posts }) {
                 colorInterpolationFilters="sRGB"
               >
                 <feFlood floodOpacity="0" result="BackgroundImageFix" />
-                <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+                {/* <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> */}
                 <feComposite
                   in2="SourceAlpha"
                   operator="in"

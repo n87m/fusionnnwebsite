@@ -25,31 +25,31 @@
   <defs>
     <filter id="filter0_b_8_26" x="245.297" y="35.3213" width="237.059" height="237.059" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix" />
-      <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+      <!-- <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> -->
       <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_8_26" />
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_8_26" result="shape" />
     </filter>
     <filter id="filter1_b_8_26" x="3.24463" y="35.3212" width="237.059" height="237.059" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix" />
-      <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+      <!-- <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> -->
       <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_8_26" />
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_8_26" result="shape" />
     </filter>
     <filter id="filter2_b_8_26" x="124.238" y="245.381" width="237.059" height="237.059" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix" />
-      <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+      <!-- <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> -->
       <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_8_26" />
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_8_26" result="shape" />
     </filter>
     <filter id="filter3_b_8_26" x="73.3207" y="59.48" width="339.426" height="339.426" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix" />
-      <feGaussianBlur in="BackgroundImage" stdDeviation="15" />
+      <!-- <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> -->
       <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_8_26" />
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_8_26" result="shape" />
     </filter>
     <filter id="filter4_b_8_26" x="184.168" y="179.989" width="117.621" height="112.299" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix" />
-      <feGaussianBlur in="BackgroundImage" stdDeviation="2" />
+      <!-- <feGaussianBlur in="BackgroundImage" stdDeviation="2" /> -->
       <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_8_26" />
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_8_26" result="shape" />
     </filter>
