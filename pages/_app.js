@@ -1,4 +1,4 @@
-import '@/css/tailwind.css'
+import '@/css/tailwind.scss'
 import '@/css/prism.css'
 
 import '@fontsource/inter/variable-full.css'

@@ -26,6 +26,24 @@ export default function Footer() {
             Tailwind Nextjs Theme
           </Link>
         </div>
+        <div>
+          An{' '}
+          <a
+            href="https://www.n87m.com?utm_sourcee=fusionnn"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            N87M
+          </a>{' '}
+          product developed in collaboration with{' '}
+          <a
+            href="https://www.localtier.com/?utm_source=fusionnn"
+            rel="noopenner noreferrer"
+            target="_blank"
+          >
+            LocalTier
+          </a>
+        </div>
       </div>
     </footer>
   )
