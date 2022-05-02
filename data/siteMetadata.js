@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'nazar@n87m.com',
+  // email: 'nazar@n87m.com',
   github: 'https://github.com/MANTENN',
   twitter: 'https://twitter.com/mantennn',
   // facebook: 'https://facebook.com',
