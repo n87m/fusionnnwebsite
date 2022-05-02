@@ -253,3 +253,8 @@ h6,
     z-index: 10;
   }
 }
+
+#__next {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
