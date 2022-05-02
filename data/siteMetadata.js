@@ -1,22 +1,21 @@
 const siteMetadata = {
-  title:
-    'Fusion — The platform the web was missing fusing websites with crucial information at your fingertips',
-  author: 'Tails Azimuth',
+  title: 'Interweaving the fabric of information into the tips of your hands.',
+  author: 'Fusion',
   headerTitle: 'Fusion',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Fusing the web and user together.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://fusionnn.com/',
+  // siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'nazar@n87m.com',
+  github: 'https://github.com/MANTENN',
+  twitter: 'https://twitter.com/mantennn',
+  // facebook: 'https://facebook.com',
+  // youtube: 'https://youtube.com',
+  // linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
