@@ -28,7 +28,7 @@ export default function Home({ posts }) {
           xmlns="http://www.w3.org/2000/svg"
           className="dot-1"
         >
-          <g filter="url(#filter0_b_7_1527)">
+          <g>
             <circle
               cx="-23.599"
               cy="253.782"
@@ -45,25 +45,6 @@ export default function Home({ posts }) {
             />
           </g>
           <defs>
-            <filter
-              id="filter0_b_7_1527"
-              x="-306.865"
-              y="-29.4833"
-              width="566.531"
-              height="566.531"
-              filterUnits="userSpaceOnUse"
-              colorInterpolationFilters="sRGB"
-            >
-              <feFlood floodOpacity="0" result="BackgroundImageFix" />
-              {/* <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> */}
-              <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7_1527" />
-              <feBlend
-                mode="normal"
-                in="SourceGraphic"
-                in2="effect1_backgroundBlur_7_1527"
-                result="shape"
-              />
-            </filter>
             <radialGradient
               id="paint0_radial_7_1527"
               cx="0"
@@ -108,7 +89,7 @@ export default function Home({ posts }) {
             xmlns="http://www.w3.org/2000/svg"
             className="dot-3"
           >
-            <g filter="url(#filter0_b_7_1528)">
+            <g>
               <circle
                 cx="124.803"
                 cy="124.782"
@@ -125,29 +106,6 @@ export default function Home({ posts }) {
               />
             </g>
             <defs>
-              <filter
-                id="filter0_b_7_1528"
-                x="-29.0771"
-                y="-29.0978"
-                width="307.76"
-                height="307.761"
-                filterUnits="userSpaceOnUse"
-                colorInterpolationFilters="sRGB"
-              >
-                <feFlood floodOpacity="0" result="BackgroundImageFix" />
-                {/* <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> */}
-                <feComposite
-                  in2="SourceAlpha"
-                  operator="in"
-                  result="effect1_backgroundBlur_7_1528"
-                />
-                <feBlend
-                  mode="normal"
-                  in="SourceGraphic"
-                  in2="effect1_backgroundBlur_7_1528"
-                  result="shape"
-                />
-              </filter>
               <radialGradient
                 id="paint0_radial_7_1528"
                 cx="0"
@@ -180,7 +138,7 @@ export default function Home({ posts }) {
             xmlns="http://www.w3.org/2000/svg"
             className="dot-2"
           >
-            <g filter="url(#filter0_b_7_1514)">
+            <g>
               <circle
                 cx="285.694"
                 cy="285.673"
@@ -197,29 +155,6 @@ export default function Home({ posts }) {
               />
             </g>
             <defs>
-              <filter
-                id="filter0_b_7_1514"
-                x="-29.1973"
-                y="-29.2175"
-                width="629.782"
-                height="629.782"
-                filterUnits="userSpaceOnUse"
-                colorInterpolationFilters="sRGB"
-              >
-                <feFlood floodOpacity="0" result="BackgroundImageFix" />
-                {/* <feGaussianBlur in="BackgroundImage" stdDeviation="15" /> */}
-                <feComposite
-                  in2="SourceAlpha"
-                  operator="in"
-                  result="effect1_backgroundBlur_7_1514"
-                />
-                <feBlend
-                  mode="normal"
-                  in="SourceGraphic"
-                  in2="effect1_backgroundBlur_7_1514"
-                  result="shape"
-                />
-              </filter>
               <radialGradient
                 id="paint0_radial_7_1514"
                 cx="0"
